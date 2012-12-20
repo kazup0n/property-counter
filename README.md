@@ -7,7 +7,7 @@ Count number of entries in java *.properties file.
 ``mvn package``
  
 ### run ###
-`` java -jar propertyfile-line-counter.jar <path to *.properties>``
+`` java -jar propertyfile-line-counter.jar``
  
 ###License ###
 ----------
